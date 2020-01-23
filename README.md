@@ -7,7 +7,7 @@ This repository consists of code that I used to learn and practice the essential
  
 ### TaskGrader Activity Code 
 
-* 
+*  
 
 ## Unit 1.2 
 ---
@@ -15,12 +15,12 @@ This repository consists of code that I used to learn and practice the essential
 ### TaskGrader Activity Code 
 
 * 
-
+ 
 ## Unit 1.3
 ---
  
 ### TaskGrader Activity Code 
 
 * 
-
+ 
 
